@@ -1,8 +1,12 @@
+
+![Carlos Rene Rangel Hernandez Banner](https://github.com/renorangel/renorangel/blob/main/assets/Reno%20Rangel%20Banner.PNG)
+
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Reno</h2>
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Reno-->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/renorangel/renorangel/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
