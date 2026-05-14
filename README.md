@@ -41,4 +41,6 @@
 
 -----
 
+Credits: [René Rangel](https://github.com/renorangel)
+
 Last Edited on: 05/13/2026
